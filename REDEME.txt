@@ -1,0 +1,9 @@
+数据部分
+data文件夹以及datase用于研究哦训练模型的的HMDDv3.2数据
+data1以及datase2是用于进行交叉验证的HMDDv2.0数据
+主函数code文件夹部分
+mian.py是主程序部分
+model.py是模型定义部分
+prepareData.py是数据预处理部分
+train.py是进行训练模型部分
+trainData.py 是数据加载
